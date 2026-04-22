@@ -26,7 +26,7 @@ This is an interactive Streamlit web app that allows users to compare the financ
 Access date: April 2026
 
 ## Demo Video
-[Watch the Video]
+[Watch the Video] 【acc102-financial-health-tool】 https://www.bilibili.com/video/BV1e5opBhES3/?share_source=copy_web&vd_source=b1870a373e4bd5640e82258c51ae1fef
 
 ## Limitations & Next Steps
 - Data is historical (up to 2020)
